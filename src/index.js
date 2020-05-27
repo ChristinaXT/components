@@ -17,6 +17,7 @@ const App = () => {
         </div>
         <div className="text">Nice blog post!</div>
       </div>
+     </div>
     </div>
   );
 };
